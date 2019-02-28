@@ -39,6 +39,13 @@
             android:gravity="center"
             android:text="@{String.valueOf(userBean.age)}"/>
 
+
+        <Button
+            android:id="@+id/btn_second"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="list页面"/>
+
     </LinearLayout>
 
 
